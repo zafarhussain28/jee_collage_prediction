@@ -1,5 +1,7 @@
 # JEE College Predictor
 
+[Open the live JEE College Predictor](https://jee-collage-prediction.streamlit.app/)
+
 A Streamlit web application for exploring college programs against a JEE rank. It uses the trained CatBoost model included in this repository together with historical JoSAA counselling records. It is an informational tool: results are estimates, not admission probabilities, official eligibility decisions, or guarantees of admission.
 
 ## Quick Start
